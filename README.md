@@ -37,3 +37,5 @@ How to Use
       python your_script_name.py
    
 - Use: Your webcam will turn on automatically. Position your face in front of the camera, and the system will attempt to recognize you. Upon recognition, your name and the time will be logged in registro.csv, and the camera window will display a green box and your name. Press any key to close the window.
+
+"The code in this repository is based on lessons from Federico Garay's course."
